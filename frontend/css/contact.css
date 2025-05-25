@@ -3,7 +3,7 @@
     Contact Page Styles
 ===============================
 /* Header */
-
+* Header */
 header {
     position: fixed;
     top: 0;
@@ -30,6 +30,7 @@ header .container {
     align-items: center;
     height: 100%; /* Ensure content aligns properly */
 }
+
 
 @media (max-width: 1024px) {
     header {
